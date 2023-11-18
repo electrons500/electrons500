@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="256" height="256" src="assets/ishOne.jpg" style="border-raduis:50%;" />
+    <img width="256" height="256" src="assets/ishOne.jpg" style="border-raduis:50;" />
 </p>
 
 <h2 align="center">Hello there! My name is Ishmael Obeng 👋</h2>
