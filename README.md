@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="256" height="256" src="assets/ishOne.jpg" style="border-raduis:50;" />
+    <img width="256" height="256" src="assets/ishOne.jpg" />
 </p>
 
 <h2 align="center">Hello there! My name is Ishmael Obeng 👋</h2>
@@ -32,7 +32,7 @@
 <hr>
 <h3 align="center">Tech Stack I'm Proficient In</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/.NET-5C2D91.svg?&style=for-the-badge&logo=C-Sharp&logoColor=%23fff&logoWidth=30"/>
+    <img src="https://img.shields.io/badge/.NET-5C2D91.svg?&style=for-the-badge&logo=C-Sharp&logoColor=%23fff"/>
     <img src="https://img.shields.io/badge/Blazor-512BD4.svg?&style=for-the-badge&logo=blazor&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-%23eeeeee.svg?&style=for-the-badge&logo=node.js&logoColor=%23417e38"/>
@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
     <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/azure-devops?&style=for-the-badge&logo=nginx&logoColor=white"">
     <img src="https://img.shields.io/badge/NGINX-269539.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/Debian-A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
