@@ -42,10 +42,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
     <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/azure-devops?&style=for-the-badge&logo=nginx&logoColor=white"">
-    <img src="https://img.shields.io/badge/NGINX-269539.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Debian-A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    
 </p>
 
 <p align="center"><img alt="Hona's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hona&show_icons=true&hide_border=true&count_private=true&theme=react"></p>
