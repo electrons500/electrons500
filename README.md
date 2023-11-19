@@ -25,7 +25,17 @@
 </p>
 
 <p align="center">
-    🔥 I am a full stack developer with my background focusing strongly on Microsoft .NET technologies. My expertise includes all software development stages, from Software specification, through software development, validation and software evolution. I have the passion for programming which helps me solve real world problems using C# as my primary language. I have a working knowledge in ASP.NET Core with deep understanding of MVC architectural pattern.
+    🔥 Developing Softwares is my passion and dream job. 🔥
+
+I’ve always been a great problem solver, inquisitive about how things work. Today, I’m a software developer and have built several projects that I invite you to explore. These projects demonstrate the type of skills I have acquired and what I can bring to your project.In addition to my skills, I abide by three core tenants that I bring to any company.
+
+:point_right: **Work Ethic** - I believe a good day is a productive day. So I use my work hours to be productive. I try to bring value each and every day.
+
+:point_right: **Empathy** - I try to understand the needs of the business and put myself in the stakeholders' shoes. Then leverage my skills as a developer to solve the issues facing the business. 
+
+:point_right: **Commitment to Craft** - What I know today cannot be the only thing I know tomorrow. I’m committed to learning new things and improving my skillset to bring the most value to any project.
+
+I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, ASP.NET, C#, .NET,  and SQL but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
 </p>
 <p align="center">
    
