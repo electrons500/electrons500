@@ -1,5 +1,7 @@
 <!-- shields.io badges are from the sites below -->
 <!-- https://github.com/danmadeira/simple-icon-badges -->
+<!-- Profile Generator by visiting  https://gprm.itsvg.in  -->
+
 <p align="center">
     <img width="256" height="256" src="assets/ishOne.jpg" />
 </p>
@@ -44,8 +46,9 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio-6C33AF.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/microsoft%20Sqlserver-232F3E?&style=for-the-badge&logo=microsoft%20sharepoint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-232F3E?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
     <img src="https://img.shields.io/badge/MYSQL-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/postman-A81D33.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/swagger-%23eeeeee.svg?&style=for-the-badge&logo=swagger&logoColor=%23417e38"/>
