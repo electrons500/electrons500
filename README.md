@@ -54,13 +54,13 @@
     <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
     <img src="https://img.shields.io/badge/microsoft%20azure-%23eeeeee.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=%231FA3EC"/>
     <img src="https://img.shields.io/badge/azure%20devops-%23eeeeee.svg?&style=for-the-badge&logo=azure%20devops&logoColor=%231FA3EC"/>
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800"/>
+     <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C"/>
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
     
- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
- ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-   ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C)
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 </p>
-
+<br/>
 <p align="center">
 
    <a href="http://www.github.com/electrons500"><img src="https://github-readme-stats.vercel.app/api?username=electrons500&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="electrons500's GitHub stats" /></a>
