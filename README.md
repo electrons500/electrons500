@@ -6,7 +6,7 @@
     <img width="256" height="256" src="assets/ishOne.jpg" />
 </p>
 
-<h2 align="center">Hello there! My name is Ishmael Kwaw Obeng 👋</h2>
+<h2 align="center">Hello there! 👋 My name is Ishmael Kwaw Obeng </h2>
 <p align="center">
 
 </p>
